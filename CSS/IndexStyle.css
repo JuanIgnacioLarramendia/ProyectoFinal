@@ -56,102 +56,21 @@
     color:white;
   }
 
-  header{
-    display: flex;
-    flex-wrap: wrap;
-    background-color: #283747;
-    height: 65.53079947575361vh;
-    margin: 25px;
-    border-radius: 5px;
-    border: 5px solid white;
-  }
-
   .H{
-    overflow: hidden;
-    display: flex;
-    width: 80%;
-    height: 10%;
-    border-bottom: 5px solid white;
-    border-right: 5px solid white;
-    box-sizing: border-box;
+    padding: 7rem 0 7rem 0;
   }
 
-  .HText{
-    align-self: center;
-    width: 100%;
-    color: #82E0AA;
-    font-size: 3em;
-    text-align: center;
+  .HFondo{
+    background: url(../Imagenes/fondo2.jpg);
+    background-size: cover;
   }
 
-  .Hnav{
-    width: 20%;
-    height: 10%;
-
-    border-bottom: 5px solid white;
-    text-align: center;
-    font-size:85%;
+  .SN{
+    padding: 3rem 0 3rem 0;
   }
 
-  .H1{
-    width: 50%;
-    height: 90%;
-    border-right: 5px solid white;
-    box-sizing: border-box;
-  }
-
-  .H1Sub1{
-    align-self: center;
-    width: 100%;
-    height: 15%;
-    border-bottom: 3px solid white;
-  }
-
-  .H1Sub1Text{
-    text-align: center;
-    font-size: 190%;
-    color: #82E0AA;
-  }
-
-  .H1Sub2{
-    overflow: auto;
-    width: 100%;
-    height: 85%;
-    color: #82E0AA;
-    font-size: 1.4em;
-    text-align: center;
-  }
-
-  .H2{
-    width: 50%;
-    height: 90%;
-  }
-
-  .H2Sub1{
-    align-self: center;
-    width: 100%;
-    height: 15%;
-    border-bottom: 3px solid white;
-  }
-
-  .H2Sub1Text{
-    text-align: center;
-    font-size: 190%;
-    color: #82E0AA;
-  }
-
-  .H2Sub2{
-    overflow: auto;
-    width: 100%;
-    height: 85%;
-    color: #82E0AA;
-    font-size: 1.4em;
-    text-align: center;
-  }
-
-  .SN2{
-    display: flex;
-    flex-wrap: wrap;
+  .Acc{
+    padding: 2rem 0 2rem 0;
   }
 
   .C{
@@ -169,7 +88,24 @@
   .B{
     text-align: center;
   }
+
   .BText{
     color: black;
     font-family: cursive;
+  }
+
+  .CText{
+    padding: 2rem 0 0 0;
+  }
+
+  .Card{
+    padding: 2rem 4rem 2rem 4rem;
+  }
+
+  .T{
+    padding: 3em 2.5rem 3rem 2.5rem;
+  }
+
+  .center{
+    text-align: center;
   }
