@@ -91,16 +91,12 @@
 
   .BText{
     color: black;
-    font-family: cursive;
   }
 
   .CText{
     padding: 2rem 0 0 0;
   }
 
-  .Card{
-    padding: 2rem 4rem 2rem 4rem;
-  }
 
   .T{
     padding: 3em 2.5rem 3rem 2.5rem;
@@ -108,4 +104,12 @@
 
   .center{
     text-align: center;
+  }
+
+  .Tt{
+    padding: 3em 2.5rem 3rem 2.5rem;
+  }
+
+  .F{
+    padding: 2rem;
   }
